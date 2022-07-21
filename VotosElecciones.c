@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <conio.h>// para utilizar la función getche
+#include <conio.h>// para utilizar la funciÃ³n getche
 #include <stdlib.h>// para utilizar las funciones system ("cls") y system ("pause")
 int main(int argc, char *argv[]) {
 	//Definimos Variables Inicializadas en 0
